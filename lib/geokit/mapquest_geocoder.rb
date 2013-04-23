@@ -1,7 +1,4 @@
-require "geokit/mapquest_geocoder/version"
+# -*- encoding : utf-8 -*-
 
-module Geokit
-  module MapquestGeocoder
-    # Your code goes here...
-  end
-end
+require 'geokit'
+require 'geokit/geocoders/mapquest_geocoder'
