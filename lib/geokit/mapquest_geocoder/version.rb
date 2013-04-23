@@ -1,0 +1,5 @@
+module Geokit
+  module MapquestGeocoder
+    VERSION = "0.0.1"
+  end
+end
